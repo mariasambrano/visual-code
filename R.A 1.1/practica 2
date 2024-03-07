@@ -1,0 +1,23 @@
+</doctype html>
+<html>
+<head>
+<title>Mi web2</title>
+</head>
+<body>
+<sectrum>
+<h1>Nombre</h1>
+</sectrum>
+<section>
+<div>edad</div>
+<div>telefono</div>
+<div>carrera</div>
+</section>
+<section>
+<u1>
+<li>gusto1</li>
+<li>gusto2</li>
+<li>gusto3</li>
+</u1>
+</section>
+<section></sectrum>
+</body>
